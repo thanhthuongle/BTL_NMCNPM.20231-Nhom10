@@ -46,8 +46,8 @@ GO
 -- Đang đổ dữ liệu cho bảng gia_dinh
 --
 INSERT INTO gia_dinh (idNhanKhau, hoTen, namSinh, gioiTinh, quanHeVoiNhanKhau, ngheNghiep, diaChiHienTai) VALUES
-(2, N'Nguyễn Minh Quân', N'1995-05-31', N'Nam', N'Chồng', N'Kỹ sư', N'Số 2 Tạ Quang Bửu, Hai Bà Trưng, Hà Nội'),
-(3, N'Trần Thanh Duyên', N'1997-12-23', N'Nữ', N'Vợ', N'Nhân viên văn phòng', N'Số 2 Tạ Quang Bửu, quận Hai Bà Trưng, Hà Nội'),
+(3, N'Nguyễn Minh Quân', N'1995-05-31', N'Nam', N'Chồng', N'Kỹ sư', N'Số 2 Tạ Quang Bửu, Hai Bà Trưng, Hà Nội'),
+(2, N'Trần Thanh Duyên', N'1997-12-23', N'Nữ', N'Vợ', N'Nhân viên văn phòng', N'Số 2 Tạ Quang Bửu, quận Hai Bà Trưng, Hà Nội'),
 (4, N'Vũ Mỹ Linh', N'1965-12-06', N'Nữ', N'Vợ', N'Nội trợ', N'Số 3 Tạ Quang Bửu, quận Hai Bà Trưng, Hà Nội'),
 (4, N'Nguyễn Tiến Đạt', N'1990-09-09', N'Nam', N'Con trai', N'Kỹ sư điện', N'Số 3 Tạ Quang Bửu, quận Hai Bà Trưng, Hà Nội'),
 (4, N'Nguyễn Trà My', N'1997-12-12', N'Nữ', N'Con gái', N'Luật sư', N'Số 3 Tạ Quang Bửu, quận Hai Bà Trưng, Hà Nội'),
